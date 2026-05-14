@@ -1,2 +1,11 @@
+<p align="center">
+  <img
+    width="69%"
+    alt="aniyuki-gojo-satoru-gif-13"
+    src="https://github.com/user-attachments/assets/e5b93fa4-8fe3-486d-98d9-c230b8ea4d8c"
+  />
+</p>
+<p align="center">
+  Gotta go fast, blazingly fast and insanely efficient!
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=c,javascript,typescript,java,python,lua,react,angular,next,spring,nodejs,vite,git,jest,html,css,bootstrap,sass,tailwind,mysql,md,npm,aws,arch,linux,vim,neovim,postman,mongodb,docker,&theme=dark)](https://skillicons.dev)
