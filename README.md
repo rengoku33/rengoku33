@@ -6,6 +6,6 @@
   />
 </p>
 <p align="center">
-  Gotta go fast, blazingly fast and insanely efficient!
+  Blazingly fast and insanely efficient!
 </p>
 
